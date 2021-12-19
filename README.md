@@ -1,5 +1,9 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+## Overview
+
+Allows a user to select a location on the map then use the coordinates in Typeform.
+
 ## Getting Started
 
 First, run the development server:
